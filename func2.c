@@ -3,5 +3,5 @@
 
 void func2()
 {
-  printf("Hello func2.c\n");
+  printf("Hello func2\n");
 }

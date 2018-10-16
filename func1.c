@@ -3,5 +3,6 @@
 
 void func1()
 {
-  printf("Hello func1.c\n");
+  printf("Hello func1\n");
+  pritnf("goodbye\n");
 }
