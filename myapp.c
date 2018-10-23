@@ -4,7 +4,7 @@
 
 void postprocess()
 {
-  printf("do some postprocess");
+  printf("do some postprocess\n");
 }
 
 void preprocess()
